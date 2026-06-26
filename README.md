@@ -5,7 +5,20 @@ Public screenshot assets for ChatGPT visual review of the CEOS Homecoming 2026 l
 Source app repository: `baya-devlab/ceos-homecoming`  
 Source branch: `feature/hero-intro-reveal`  
 Source commit: `971683f192ae91f48e04e0f7359385f44fda3e71`  
-Capture set: `before-review-398b194`
+Latest visual audit set: `visual-audit-398b194`  
+Previous capture set: `before-review-398b194`
+
+## Visual Audit Pack
+
+Use the contact sheets first if ChatGPT has trouble rendering many individual PNG links.
+
+| Item | Direct Image / Report URL |
+| --- | --- |
+| Mobile flow contact sheet | https://raw.githubusercontent.com/baya-devlab/ceos-homecoming-audit-assets/main/qa/feature-hero-intro-reveal/visual-audit-398b194/contact-sheet-mobile-flow.png |
+| Modal flow contact sheet | https://raw.githubusercontent.com/baya-devlab/ceos-homecoming-audit-assets/main/qa/feature-hero-intro-reveal/visual-audit-398b194/contact-sheet-modal-flow.png |
+| Desktop contact sheet | https://raw.githubusercontent.com/baya-devlab/ceos-homecoming-audit-assets/main/qa/feature-hero-intro-reveal/visual-audit-398b194/contact-sheet-desktop.png |
+| All captures contact sheet | https://raw.githubusercontent.com/baya-devlab/ceos-homecoming-audit-assets/main/qa/feature-hero-intro-reveal/visual-audit-398b194/contact-sheet-all.png |
+| Visual audit report | https://github.com/baya-devlab/ceos-homecoming-audit-assets/blob/main/qa/feature-hero-intro-reveal/visual-audit-398b194/visual-audit-report.md |
 
 ## Minimum Review Set
 
