@@ -19,6 +19,7 @@ Use the contact sheets first if ChatGPT has trouble rendering many individual PN
 | Desktop contact sheet | https://raw.githubusercontent.com/baya-devlab/ceos-homecoming-audit-assets/main/qa/feature-hero-intro-reveal/visual-audit-398b194/contact-sheet-desktop.png |
 | All captures contact sheet | https://raw.githubusercontent.com/baya-devlab/ceos-homecoming-audit-assets/main/qa/feature-hero-intro-reveal/visual-audit-398b194/contact-sheet-all.png |
 | Visual audit report | https://github.com/baya-devlab/ceos-homecoming-audit-assets/blob/main/qa/feature-hero-intro-reveal/visual-audit-398b194/visual-audit-report.md |
+| Visual audit ZIP | https://github.com/baya-devlab/ceos-homecoming-audit-assets/blob/main/qa/feature-hero-intro-reveal/visual-audit-398b194/ceos-homecoming-visual-audit-398b194.zip |
 
 ## Minimum Review Set
 
