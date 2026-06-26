@@ -4,6 +4,7 @@
 - Source branch: `feature/hero-intro-reveal`
 - Capture basis: local dev server + Playwright emulation
 - Generated at: 2026-06-26T16:36:59
+- Supplemented at: 2026-06-26T17:34:00
 - Viewports: mobile 390x844, mobile 430x932, desktop 1440x900
 - Device note: screenshots are not actual iPhone Safari captures.
 
@@ -23,6 +24,10 @@
 | Final CTA stars | PASS | Sparkle layer contrast and glow are increased with reduced-motion fallback. |
 | Application modal copy/fields | PASS | Title subcopy removed, optional/required fields updated, placeholder toned down, media consent included. |
 | Application complete page | PASS | `/apply/complete` route added with requested title, copy, and three buttons. |
+| Wanted empty warning capture | PASS | `wanted-empty-warning-390.png` captures the empty-submit warning below the Wanted input. |
+| People Graph loading capture | PASS | `people-graph-loading-390.png` captures the loading splash with status/progress UI. |
+| People Graph result capture | PASS | `people-graph-result-390.png` captures the connection score and contact form state. |
+| People Graph validation capture | PASS | `people-graph-result-error-390.png` captures phone/email validation errors in the result form. |
 
 ## Mobile Observations
 
@@ -31,6 +36,7 @@
 - MC carousel shows live event photos with dark overlay treatment.
 - Application modal capture shows the top of the scrollable form; the modal scroll behavior was intentionally not changed.
 - Tickets section has a clearer urgent deadline card and more separation between mobile cards.
+- Wanted/People Graph state captures were added after initial ZIP review because the first polish-3 pack omitted those four modal/warning states.
 
 ## Remaining Risks
 
