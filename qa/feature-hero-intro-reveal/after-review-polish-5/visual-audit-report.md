@@ -2,7 +2,7 @@
 
 - Source branch: `feature/hero-intro-reveal`
 - Capture basis: local dev server + Playwright emulation
-- Capture timestamp: 2026-06-26 21:43:57
+- Capture timestamp: 2026-06-26 22:28:12
 - Viewports: mobile 390x844, mobile 430x932, desktop 1440x900
 - Actual iPhone/Safari capture: no
 
@@ -22,14 +22,15 @@
 |---|---|---|---|
 | Featured Nodes landing has 4 photo cards | DOM check + `featured-nodes-390.png` | PASS | All 4 selected cards contain image assets. |
 | `/nodes` has 15 cards | DOM count + captures | PASS | 10 profile cards and 5 TBD cards. |
-| Node photos/placeholder distribution | DOM image count | PASS | 8 image cards, 2 confidential placeholders, 5 TBD placeholders. |
+| Node photos/placeholder distribution | DOM image count | PASS | 8 image cards, 2 confidential placeholders at N004/N009, 5 TBD placeholders. |
+| Updated dummy data avoids previous overpowered brands | Data review | PASS | Google Korea, McKinsey Korea, and Toss affiliate copy removed. |
 | Timetable venue carousel | Visual capture + DOM image check | PASS | 3 venue photos duplicated for marquee carousel. |
 | Follow-up row no separate card box | Style check + `timetable-390.png` | PASS | Background/border box removed; glow emphasis remains. |
 | Tickets heading dash removed and copy updated | Text check + `tickets-390.png` | PASS | Mobile two-line copy captured. |
 | Final CTA copy line breaks updated | Text check + `find-your-next-node-390.png` | PASS | Mobile three-line headline captured. |
 | People Graph progress non-linear timing | CSS keyframe check + modal capture | PASS | 4s animation preserved with stepped keyframes. |
 | People Graph result placeholders | DOM placeholder check + `people-graph-result-390.png` | PASS | Name/phone/email placeholders included. |
-| Hero/Wanted snap maintained | Playwright snap check | PASS | 390/430 target top values were 0. |
+| Hero/Wanted snap maintained | Playwright snap check | PASS | 390/430 target top values were 0 after settle. |
 
 ## Remaining Risks
 
