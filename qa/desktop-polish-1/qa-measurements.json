@@ -1,0 +1,26 @@
+{
+  "mobile390": {
+    "scrollWidth": 390,
+    "innerWidth": 390,
+    "overflowOk": true,
+    "wantedTopAfterCue": null
+  },
+  "mobile430": {
+    "scrollWidth": 430,
+    "innerWidth": 430,
+    "overflowOk": true,
+    "wantedTopAfterCue": null
+  },
+  "desktop1440": {
+    "scrollWidth": 1440,
+    "innerWidth": 1440,
+    "overflowOk": true,
+    "wantedTopAfterCue": null
+  },
+  "desktop1728": {
+    "scrollWidth": 1728,
+    "innerWidth": 1728,
+    "overflowOk": true,
+    "wantedTopAfterCue": null
+  }
+}
