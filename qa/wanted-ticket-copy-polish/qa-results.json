@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2026-06-28T11:41:52.196Z",
+  "baseUrl": "http://127.0.0.1:4177",
+  "checks": [
+    {
+      "name": "People Graph result deadline removed",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "People Graph result CTA copy",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "People Graph result arrow copy",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "People Graph contact submit",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "mobile wantedHelper",
+      "result": "PASS",
+      "detail": "true"
+    },
+    {
+      "name": "mobile wantedCta",
+      "result": "PASS",
+      "detail": "true"
+    },
+    {
+      "name": "mobile timetableTitle",
+      "result": "PASS",
+      "detail": "true"
+    },
+    {
+      "name": "mobile ticketsTitle",
+      "result": "PASS",
+      "detail": "true"
+    },
+    {
+      "name": "mobile earlybirdSame",
+      "result": "PASS",
+      "detail": "true"
+    },
+    {
+      "name": "mobile invitationPass",
+      "result": "PASS",
+      "detail": "true"
+    },
+    {
+      "name": "mobile privateCtaRemoved",
+      "result": "PASS",
+      "detail": "true"
+    },
+    {
+      "name": "mobile finalShare",
+      "result": "PASS",
+      "detail": "true"
+    },
+    {
+      "name": "mobile 390 overflow",
+      "result": "PASS",
+      "detail": "{\"scrollWidth\":390,\"clientWidth\":390,\"wantedHelper\":true,\"wantedCta\":true,\"timetableTitle\":true,\"ticketsTitle\":true,\"earlybirdSame\":true,\"invitationPass\":true,\"privateCtaRemoved\":true,\"finalShare\":true,\"chipBackground\":\"linear-gradient(oklch(0.92 0.065 220 / 0.28), oklch(0.56 0.16 230 / 0.24)) repeat scroll 0% 0% / auto padding-box border-box, oklch(0.12 0.07 250 / 0.96) none repeat scroll 0% 0% / auto padding-box border-box\"}"
+    },
+    {
+      "name": "CEOS ONLY chip styled",
+      "result": "PASS",
+      "detail": "linear-gradient(oklch(0.92 0.065 220 / 0.28), oklch(0.56 0.16 230 / 0.24)) repeat scroll 0% 0% / auto padding-box border-box, oklch(0.12 0.07 250 / 0.96) none repeat scroll 0% 0% / auto padding-box border-box"
+    },
+    {
+      "name": "final CTA clipboard URL",
+      "result": "PASS",
+      "detail": "https://ceos-homecoming.vercel.app/?share=next-node"
+    },
+    {
+      "name": "floating clipboard URL",
+      "result": "PASS",
+      "detail": "https://ceos-homecoming.vercel.app/?share=next-node"
+    },
+    {
+      "name": "mobile 430 overflow",
+      "result": "PASS",
+      "detail": "{\"scrollWidth\":430,\"clientWidth\":430}"
+    },
+    {
+      "name": "desktop 1440 overflow",
+      "result": "PASS",
+      "detail": "{\"scrollWidth\":1440,\"clientWidth\":1440,\"tickets\":\"TICKETS만나고픈 사람이 있다면, 늦을수록 불리합니다.※ 선등록자의 Wanted 요청부터 먼저 검토됩니다.Earlybird Deadline정원이 차면 예고 없이 조기 마감될 수 있습니다.02D : 03H : 18M : 29.2SCEOS ONLYEarlybird Pass선착순 15명 · 6월 30일 마감 · 조기 마감 가능19,000원29,000원Priority Pass와 동일Earlybird 신청하기CEOS ONLYPriority Pass29,000원행사 입장권Wanted 요청 우선권Node Market 이용 우선권Open Mic 우선권Priority Pass 신청하기Invitation Pass일반 신청자 · 승인된 외부 초청자39,000원외부 초청자는 추천 또는 승인 후 신청할 수 있습니다.행사 입장권Wanted 요청 검토Node Market 이용권 2장Invitation Pass 신청하기\"}"
+    },
+    {
+      "name": "desktop tickets 3 cards copy",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "/nodes new profiles maintained",
+      "result": "PASS",
+      "detail": "{\"cardCount\":15,\"hasNewNodes\":true,\"hasTbd\":false,\"scrollWidth\":390,\"clientWidth\":390}"
+    },
+    {
+      "name": "/nodes mobile overflow",
+      "result": "PASS",
+      "detail": "{\"cardCount\":15,\"hasNewNodes\":true,\"hasTbd\":false,\"scrollWidth\":390,\"clientWidth\":390}"
+    },
+    {
+      "name": "mobile console errors",
+      "result": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "desktop console errors",
+      "result": "PASS",
+      "detail": ""
+    }
+  ]
+}
