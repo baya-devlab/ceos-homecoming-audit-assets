@@ -1,0 +1,24 @@
+{
+  "createdAt": "2026-06-29T01:52:30.506Z",
+  "basis": "http://127.0.0.1:3000",
+  "files": [
+    "invite-overlay-mobile-390.png",
+    "invite-overlay-desktop-1440.png",
+    "application-modal-normal-mobile-390.png",
+    "application-modal-invited-mobile-390.png",
+    "application-modal-desktop-1440.png",
+    "normal-landing-mobile-390.png",
+    "normal-landing-desktop-1440.png",
+    "nodes-mobile-390.png",
+    "nodes-mobile-430.png",
+    "nodes-desktop-1440.png",
+    "nodes-sticky-mobile-390.png",
+    "nodes-sticky-desktop-1440.png",
+    "featured-nodes-mobile-390.png",
+    "featured-nodes-desktop-1440.png",
+    "private-invitation-mobile-390.png",
+    "private-invitation-desktop-1440.png",
+    "timetable-mobile-390.png",
+    "timetable-desktop-1440.png"
+  ]
+}
