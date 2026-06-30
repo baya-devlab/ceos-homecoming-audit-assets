@@ -1,0 +1,49 @@
+{
+  "mobile": {
+    "overlayHasInviteText": true,
+    "ctaCopy": true,
+    "heroPaused": "true",
+    "before": {
+      "currentTime": 0,
+      "paused": true
+    },
+    "afterWait": {
+      "currentTime": 0,
+      "paused": true
+    },
+    "pausedStayedAtZero": true,
+    "afterClick": {
+      "currentTime": 0.665,
+      "paused": false
+    },
+    "restartedAfterClick": true,
+    "modalHasReferral": true
+  },
+  "desktop": {
+    "overlayHasInviteText": true,
+    "ctaCopy": true,
+    "heroPaused": "true",
+    "before": {
+      "currentTime": 0,
+      "paused": true
+    },
+    "afterWait": {
+      "currentTime": 0,
+      "paused": true
+    },
+    "pausedStayedAtZero": true,
+    "afterClick": {
+      "currentTime": 0.698,
+      "paused": false
+    },
+    "restartedAfterClick": true,
+    "modalHasReferral": true
+  },
+  "normal": {
+    "overlayCount": 0,
+    "videoState": {
+      "currentTime": 1.698,
+      "paused": false
+    }
+  }
+}
